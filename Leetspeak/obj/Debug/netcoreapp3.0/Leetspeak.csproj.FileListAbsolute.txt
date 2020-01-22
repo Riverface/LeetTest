@@ -1,0 +1,11 @@
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp3.0\Leetspeak.csprojAssemblyReference.cache
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp3.0\Leetspeak.AssemblyInfoInputs.cache
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp3.0\Leetspeak.AssemblyInfo.cs
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp3.0\Leetspeak.exe
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp3.0\Leetspeak.deps.json
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp3.0\Leetspeak.runtimeconfig.json
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp3.0\Leetspeak.runtimeconfig.dev.json
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp3.0\Leetspeak.dll
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp3.0\Leetspeak.pdb
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp3.0\Leetspeak.dll
+C:\Users\sonos\Documents\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp3.0\Leetspeak.pdb
