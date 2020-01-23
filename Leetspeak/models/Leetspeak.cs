@@ -32,7 +32,7 @@ namespace Testpractice
             char[] wA = i2.ToCharArray();
             for (int ct = 0; ct < wA.Length; ct++)
             {
-                Console.WriteLine(wA[ct]);
+
                 output += Leeterpreter(Convert.ToChar(wA[ct]), ct);
 
             }
