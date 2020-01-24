@@ -12,22 +12,30 @@ namespace Testpractice
         public static string Leet(string input){
             string Leetchange = "";
 
-            Leetchange = SAssembler(Console.ReadLine());
+            Leetchange = SAssembler(input);
             return Leetchange;
         }
         public static string SAssembler(string i1)
         {
             string o="";
-
+            int i = 0;
             foreach (string ic in i1.Split(" "))
             {
+                i++;
                 o += WAssembler(ic);
+                if(i == i1.Split(" ").Length){
+                 return o;   
+                }
+                else{
                 o += " ";
+                }
+
             }
         return o;
         }
         public static string WAssembler(string i2)
         {
+            i2 = i2.ToLower();
             string output = "";
             char[] wA = i2.ToCharArray();
             for (int ct = 0; ct < wA.Length; ct++)
@@ -53,10 +61,10 @@ namespace Testpractice
                 case 'o':
                     o = '0';
                     break;
-                case 'A':
+                case 'a':
                     o = '4';
                     break;
-                case 'I':
+                case 'i':
                     o = '1';
                     break;
                 case 's':
